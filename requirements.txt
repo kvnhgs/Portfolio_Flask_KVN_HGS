@@ -1,0 +1,12 @@
+flask
+flask-sqlalchemy
+pandas
+numpy
+pillow
+scikit-learn
+joblib
+matplotlib
+requests
+sqlalchemy
+plotly
+openpyxl
